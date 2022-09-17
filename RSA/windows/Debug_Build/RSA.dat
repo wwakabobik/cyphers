@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------
+//---	Do not modify this file manually!	---//
+//---	These parameters need to invoke	---//
+//---	RSA encode/decode machine.		---//
+//---	Hold this file very safe. Do not publish!	---//
+//---	TDSV RSA code machine, 2005		---//
+--------------------------------------------------------------------------
+PUBLIC_KEY	1024207653
+INITIAL_KEY	1946013116
+PRIVATE_KEY	1934827023
+ADDITIONAL_1	1934827023
+ADDITIONAL_2	1676071556

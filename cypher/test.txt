@@ -1,0 +1,1 @@
+TDSV Oct Cypher working only with English, Russian ar not supported. Use variable vectors and keywoards to cyphering english texts. Vector for example: 12345678; keywoard: qwertyui. Thanks for using TDSV products!
