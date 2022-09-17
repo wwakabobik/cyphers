@@ -12,7 +12,7 @@ This repo contains several cyphers designed by my own at 2002-2006.
 
 ![Udec interface](https://github.com/wwakabobik/cyphers/blob/master/udec/udec.png)
 
-4. Cypher - it's vector-based cypher. User defines two unique strings: one is 8 number digit, and second is 8 char lingth string. This vectors used as indexes for 8x8 matrix of ASCII chars(256). So, as result of cypehring, there will be i, j indexes of initial vectors (represent placement of char in table), what will produce encoded text twice longer than initial. App encodes/decodes files. This app was developed in C++ approx in 2003-2004 as console application, and was refactored to Windows GUI application (Borland C++ Builder 6) in 2004-2005.
+4. Cypher - it's vector-based cypher. User defines two unique strings: one is 8 number digit, and second is 8 char lingth string. This vectors used as indexes for 8x8 matrix of ASCII chars(256). So, as result of cypehring, there will be i, j indexes of initial vectors (represent placement of char in table), what will produce encoded text twice longer than initial. App encodes/decodes files. This app was developed in C++ approx in 2003-2004 as console application, and was refactored to Windows GUI application (Borland C++ Builder 6) in 2004-2005. [Link to binary](http://illusionist7.narod.ru/download/PROGS/udec.rar).
 
 ![Cypher interface](https://github.com/wwakabobik/cyphers/blob/master/cypher/cypher.png)
 
